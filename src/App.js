@@ -1,10 +1,14 @@
 
 import './App.css';
-import List from './components/List';
+import BGColor from './components/BGColor';
+// import List from './components/List';
 function App() {
   return (
     <>
-      <List />
+      {/* <List /> */}
+      <BGColor />
+
+
     </>
   );
 }
